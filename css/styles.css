@@ -8,12 +8,27 @@ body {
     background-color: #ffffff;
 }
 
+.nav-menu {
+
+}
+
+.nav-list {
+    font-weight: 500;
+    letter-spacing: 2%;
+    color: #2e2f42;
+}
+
+.nav-list:hover,
+.nav-list:focus {
+    color: #404bbf;
+}
+
 .logo {
     font-family: "Raleway";
     font-weight: 700;
     font-size: 18px;
-    line-height: 1.17px;
-    letter-spacing: 0.03;
+    line-height: 1.17;
+    letter-spacing: 3%;
     text-transform: uppercase;
     color: #4d5ae5;
 
@@ -23,26 +38,16 @@ span {
     color: #2e2f42;
 }
 
-.list {
-    font-weight: 500;
-    letter-spacing: 0.02;
-    color: #2e2f42;
-}
-
-.list:hover,
-.list:focus {
-    color: #404bbf;
-}
-
-.address {
+.address-list {
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.02;
     color: #434455;
+    font-style: normal;
 }
 
-.address:hover,
-.address:active {
+.address-list:hover,
+.address-list:focus {
     color: #404bbf;
 }
 
@@ -50,7 +55,7 @@ span {
     background-color: #2e2f42;
 }
 
-h1 {
+.h-one {
     font-weight: bold;
     font-size: 56px;
     letter-spacing: 0.02;
@@ -74,7 +79,11 @@ h1 {
     background-color: #404BBF;
 }
 
-h2 {
+.section-two {
+
+}
+
+.h-two {
     font-weight: bold;
     font-size: 36px;
     letter-spacing: 2%;
@@ -85,7 +94,7 @@ h2 {
     color: #2e2f42;
 }
 
-h3 {
+.h-three {
     font-weight: 500;
     font-size: 20px;
     letter-spacing: 2%;
@@ -93,13 +102,7 @@ h3 {
     color: #2e2f42;
 }
 
-p {
-    font-size: 16px;
-    line-height: 1.5;
-    letter-spacing: 0.02;
-}
-
-.text {
+.two-text {
     font-weight: normal;
     font-size: 12px;
     line-height: 14px;
@@ -108,21 +111,30 @@ p {
 
 .section-three {
     background-color: #f4f4fd;
-
 }
 
-.link {
+.three-text {
     font-weight: normal;
     font-size: 12px;
-    line-height: 16px;
+    line-height: 14px;
     letter-spacing: 4%;
-    text-decoration: underline;
 }
 
-footer {
+.section-four {
+    
+}
+
+.four-text {
+    font-weight: normal;
+    font-size: 12px;
+    line-height: 14px;
+    letter-spacing: 4%;
+}
+
+.footer {
     color: #2e2f42;
 }
 
-.footer-p {
+.footer-text {
     color: #F4F4FD;
 }
