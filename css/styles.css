@@ -1,15 +1,11 @@
 body {
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: normal;
     font-size: 16px;
     line-height: 24px;
     letter-spacing: 2%;
     color: #434455;
     background-color: #ffffff;
-}
-
-.nav-menu {
-
 }
 
 .nav-list {
@@ -69,7 +65,7 @@ span {
 }
 
 .button {
-    font-family: 'Roboto' sans-serif;
+    font-family: 'Roboto', sans-serif;
     font-weight: 500;
     font-size: 16px;
     line-height: 24px;
@@ -82,10 +78,6 @@ span {
 .button:hover,
 .button:focus {
     background-color: #404BBF;
-}
-
-.section-two {
-
 }
 
 .h-two {
@@ -128,10 +120,6 @@ span {
     line-height: 1.5;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
-}
-
-.section-four {
-    
 }
 
 .four-text {
