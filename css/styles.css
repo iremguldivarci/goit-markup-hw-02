@@ -118,10 +118,14 @@ span {
     background-color: #f4f4fd;
 }
 
+.three-list {
+    background-color: #FFFFFF;
+}
+
 .three-text {
     font-weight: normal;
     font-size: 16px;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
     background-color: #FFFFFF;
 }
@@ -133,7 +137,7 @@ span {
 .four-text {
     font-weight: normal;
     font-size: 16px;
-    line-height: 1.5px;
+    line-height: 1.5;
     letter-spacing: 0.02em;
 }
 
@@ -151,7 +155,7 @@ span {
     color: #4d5ae5;
 }
 
-.footer-span {
+span > .footer-span {
     color: #2e2f42
 }
 
